@@ -5,7 +5,7 @@ I am Nelson Muthiga, most people call me Nelson, I am a current computer science
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [https://muthiga.me](http://muthiga.me)
 * ✉️  You can contact me at [glue\_diesels.05@icloud.com](mailto:glue_diesels.05@icloud.com)
-* ⚡  Well renowned narcissist
+* ⚡  Well renowned procrastinator
 * 🖥️  Aspiring cyber security expert
 * 📚  I'm currently learning about software architecture and design patterns
 
