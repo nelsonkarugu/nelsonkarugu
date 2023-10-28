@@ -1,11 +1,10 @@
 ## Fancy seeing you here! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
 
-I am Nelson Muthiga, most people call me Nelson, I am a current computer science student at [Thompson River's University](https://tru.ca/).
+I am Nelson Muthiga, most people call me Nelson, I am currently pursuing a degree in computer science student at [Thompson River's University](https://tru.ca/).
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [https://muthiga.me](http://muthiga.me)
 * ✉️  You can contact me at [glue\_diesels.05@icloud.com](mailto:glue_diesels.05@icloud.com)
-* ⚡  Well renowned procrastinator
 * 🖥️  Aspiring cyber security expert
 * 📚  I'm currently learning about software architecture and design patterns
 
